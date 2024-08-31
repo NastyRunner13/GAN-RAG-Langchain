@@ -4,7 +4,7 @@ This application uses Retrieval-Augmented Generation (RAG) to answer questions a
 
 ## Dataset
 
-[Link to the GAN research papers dataset](#) <!-- Replace with actual dataset link -->
+[Link to the GAN research papers dataset](https://drive.google.com/drive/folders/10zPpoPCi-NSeSbfue-yUhTS-pyKQNizW?usp=sharing)
 
 ## Description
 
